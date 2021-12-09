@@ -1,6 +1,6 @@
 # PERTEMUAN 10 (latihan 1)
 
-pada latihan 1 saya diberi soal sebagai berikut:
+pada latihan 1 saya diberi soal sebagai berikut :
 
 ![img](gambar/soal1.PNG)
 
